@@ -4,11 +4,12 @@
 <br>
 
 ## Screenshots
+
 **Light mode:**
 <br>
-<img src="https://s19.picofile.com/file/8431897518/fb_light.png"inline-block;/>
+![Light mode](https://s19.picofile.com/file/8431898392/fb_light.png)
 
 <br>
 **Dark mode:**
 <br>
-<img src="https://s19.picofile.com/file/8431897542/fb_dark.png"inline-block;/>
+![Dark mode](https://s19.picofile.com/file/8431898418/fb_dark.png)

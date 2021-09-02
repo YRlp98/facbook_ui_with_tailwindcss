@@ -1,7 +1,7 @@
 # Facebook UI  with Tailwind CSS
 
-> Facebook Responsive UI and Dark Mode using [Tailwind CSS](https://tailwindcss.com/ "Tailwind CSS")
-
+Facebook Responsive UI and Dark Mode using [Tailwind CSS](https://tailwindcss.com/ "Tailwind CSS") <br />
+[Demo](https://facebook-ui-with-tailwindcss.vercel.app/ "Demo")
 
 
 ## Screenshots
